@@ -4,14 +4,28 @@ Hi,  I am Biswajit Karmakar. Welcome to my page.  I am  a research staff in [Par
 
 High energy physics phenomenology is my broad area of research with particular emphasis on neutrino physics, dark matter, cosmology, etc. 
 
-You can use the [editor on GitHub](https://github.com/biswate/biswate/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Contact 
 E-mail: biswajit.karmakar@us.edu.pl; 
 Address: ul. 75  Pulku Piechoty  1, Room 312A, 41-500 Chorzów, Poland;
 Telephone: +48 32 349 3891; 
+
+
+## Research 
+Neutrino Physics
+
+Dark Matter 
+
+Matter-antimatter asymmetry 
+
+Extended Scalar Sector
+
+Early Universe Cosmology etc.  
+
+You can use the [editor on GitHub](https://github.com/biswate/biswate/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
