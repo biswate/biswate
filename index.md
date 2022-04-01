@@ -1,4 +1,4 @@
-## Biswajit Karmakar
+# Biswajit Karmakar
 
 Hi,  I am Biswajit Karmakar. Welcome to my page.  I am  a research staff in [Particle Physics Group](https://czastki.us.edu.pl/) of Prof. Janusz Gluza   at Institute of  Physics ,Uniwersytet Śląski w Katowicach  Poland. I completed my Ph.D. from the Indian Institute of Technology  Guwahati. Then I was a postdoctoral fellow at the Physical Research Laboratory  Ahmedabad, India, and at the Institute of High Energy Physics, Beijing, China. Before moving to Katowice, I was a researcher at the Indian Institute of Technology Hyderabad.  
 
@@ -8,7 +8,10 @@ You can use the [editor on GitHub](https://github.com/biswate/biswate/edit/gh-pa
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Contact 
+E-mail: biswajit.karmakar@us.edu.pl; 
+Address: ul. 75  Pulku Piechoty  1, Room 312A, 41-500 Chorzów, Poland;
+Telephone: +48 32 349 3891; 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
